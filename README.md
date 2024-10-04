@@ -1,4 +1,4 @@
-# Gestão de Usuários
+# 🧑‍🏫 Gestão de Usuários
 
 Este projeto é uma aplicação web desenvolvida em **Flask** para gerenciar usuários, permitindo a criação, visualização, atualização e exclusão de registros.
 
