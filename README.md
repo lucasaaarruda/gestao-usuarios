@@ -6,13 +6,7 @@ O projeto foi desenvolvido com foco na simplicidade e eficiência, utilizando um
 
 O projeto foi feito originalmente pelo [Programador Python](https://www.youtube.com/@programadorpython).
 
-## 💻 Telas
 
-![Tela Principal](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/main.PNG)
-
-![Tela de Edição](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/Edicao.PNG)
-
-![Tela de Informações](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/popup.PNG)
 
 ## 🚀 Sobre o Projeto
 
@@ -24,6 +18,15 @@ A **Gestão de Usuários** é uma aplicação web que permite o gerenciamento co
 - Visualizar a lista de usuários cadastrados.
 
 O projeto utiliza **Flask** como framework principal e **Peewee** para a comunicação com o banco de dados. O banco de dados padrão é o **SQLite**, mas a aplicação pode ser configurada para usar outros sistemas de banco de dados como **MySQL** ou **PostgreSQL**.
+
+### Tela Principal
+![Tela Principal](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/main.PNG)
+
+### Tela Edit
+![Tela de Edição](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/Edicao.PNG)
+
+### Tela View
+![Tela de Informações](https://github.com/lucasaaarruda/gestao-usuarios/blob/main/popup.PNG)
 
 ## 📈 Layout
 
